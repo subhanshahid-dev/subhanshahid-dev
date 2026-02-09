@@ -26,7 +26,7 @@ I enjoy building responsive and user-friendly websites and constantly improving 
 
 ## 📫 Contact Me
 
-- Email: subhanshahid@example.com  
+- Email: subhanshahid270@gmail.com
 
 ---
 
