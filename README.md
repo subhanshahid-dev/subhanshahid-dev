@@ -16,7 +16,7 @@ I enjoy building responsive and user-friendly websites and constantly improving 
 
 ## 📂 Featured Projects
 
-- **[Digital-Theatre Website](https://github.com/SubhanXcode/digital-theatre)** – Responsive theatre booking website using HTML, CSS, JS & Bootstrap  
+- **[Digital-Theatre Website](https://github.com/subhanshahid-dev/digital-theatre.git)** – Responsive theatre booking website using HTML, CSS, JS & Bootstrap  
 <!-- - **Mini JS Projects** – Small interactive apps like calculator, to-do list, and quiz apps  
 - **[Assignments & Learning Projects](https://github.com/SubhanXcode)** – Various web development exercises demonstrating front-end skills  -->
 
